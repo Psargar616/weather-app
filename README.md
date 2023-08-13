@@ -8,7 +8,7 @@ In this weather app, I also added one search box where users can enter the city 
 ![screenshot](./Screenshots/screencapture-weather-app.png)
 ![screenshot](./Screenshots/screencapture-weather-app-2.png)
 
-## [Live Url]()
+### [Live Url](https://psargar616.github.io/weather-app/)
 
 ## Things I learned while making this project: 
 - get the current weather data using the API key from OpenWeatherMap API
