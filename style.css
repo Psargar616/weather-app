@@ -18,6 +18,7 @@ body{
     color: white;
     background: linear-gradient(135deg,#00feba, #5b548a);
     text-align: center;
+    transition: all 1s ease-in-out;
     
 }
 
