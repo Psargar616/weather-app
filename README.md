@@ -5,7 +5,7 @@ and display the weather information like Temperature,  Weather conditions, Humid
 Here I displayed the weather information on the website from Free API using JavaScript.
 In this weather app, I also added one search box where users can enter the city name and get the weather information of the particular city.
 
-[screenshot](Screenshots\screencapture-weather-app.png)
+[screenshot](./Screenshots\screencapture-weather-app.png)
 
 ## [Live Url]()
 
